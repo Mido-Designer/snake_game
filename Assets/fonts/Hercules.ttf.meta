@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 66a2bd2d4e491e94188f3bc05e57588d
+timeCreated: 1504718790
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hercules
+  fontNames:
+  - Hercules
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

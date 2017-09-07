@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 87caa5ac61f848d40b30e30515f3f4d5
+timeCreated: 1504718790
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aunchanted
+  fontNames:
+  - Aunchanted
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
