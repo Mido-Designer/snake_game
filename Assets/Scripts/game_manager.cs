@@ -12,14 +12,17 @@ public class game_manager : MonoBehaviour {
 	snake s;
 
 	public GameObject head;
-	head h;
 
 	int scre  = 0;
 	int lifes = 5;
 
 	void Start(){
 		s = snake.GetComponent<snake> ();
-		h = head.GetComponent<head> ();
+	}
+
+	void Update(){
+		if (Input.GetKeyDown(KeyCode.Escape)) 
+			Application.Quit();
 	}
 
 	public void increase_score(int factor){

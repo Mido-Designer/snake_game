@@ -5,7 +5,6 @@ public class head : MonoBehaviour {
 
 	public float speed = 3.0f;
 	public float rotation_speed = 200.0f;
-	float horizontal = 0f;
 
 	public int long_factor = 10 ;
 
@@ -34,7 +33,6 @@ public class head : MonoBehaviour {
 
 		direction = gm.move ();
 
-		horizontal = Input.GetAxisRaw ("Horizontal");
 
 	}
 
